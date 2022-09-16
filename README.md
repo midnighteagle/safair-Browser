@@ -21,4 +21,4 @@ The module used in this project is **[PyQt5](https://pypi.org/project/PyQt5/)**<
 
 **Sample Output:**
 
-![Sample Output](/Screenshot(8).png)
+![Sample Output](/Screenshot (8).png)
